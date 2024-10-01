@@ -1,2 +1,4 @@
 name = 'Mithu'
-print(f"Hi {name}, Welcome to PyWorld!")
+age = 35
+print(f"Hi {name}, and {age} years old. Welcome to PyWorld!")
+
